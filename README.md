@@ -1,4 +1,4 @@
-# Chuech (PROJECT SCE)
+# Chuech (formely, PROJECT SCE)
 A simple education platform with motivation and collaboration in mind.
 
 **This project is currently under really early development.**
